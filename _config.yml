@@ -41,9 +41,10 @@ linkedin_username: alvaro-luque-vargas-032a27167
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Álvaro Luque, I'm a full stack developer with +3 years of experience. I have been developing internal software tools and also worked on web development. Went from UX design (figma), to page speed improvementes and also SEO optimizations.
-  As well as developing software I also have expirience working on the company Architecture, deploying web servers on <mark>AWS</mark>, configuring network... All this different kind of tasks gave me a good vision about all the proccesses involved in software development.
-  Currently I'am studying a master in Blockchain at UPC School in Barcelona. I've been working on some personal projects, mainly with Ethereum and solidity for Smart Contracts. And also ReactJS,Hardhat,Moralis...for building Dapps.
+  Hi, my name is Álvaro Luque, I'm a full stack developer with +3 years of experience. I have been developing internal software tools and also worked on web development. I have experience on different developing tasks. I worked making UX design (figma), and also went from page speed improvementes to SEO optimizations.
+  |As well as developing software I also have expirience working on the company Architecture, deploying web servers on <mark>AWS</mark>, configuring network... All this different kind of tasks gave me a good vision about all the proccesses involved in software development.
+  |I also have experience with some analytics and user tracking tools.
+  |Currently I'am studying a master in Blockchain at UPC School in Barcelona. I've been working on some personal projects, mainly with Ethereum and solidity for Smart Contracts. And also ReactJS,Hardhat,Moralis...for building Dapps.
 
 content:
   # - title: Projects # Title for the section
