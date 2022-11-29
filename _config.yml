@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Álvaro Luque
+name: Álvaro Luque Vargas
 title: Full stack - Software engineer
 email: alvaro_25_98@hotmail.com
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -41,33 +41,32 @@ linkedin_username: alvaro-luque-vargas-032a27167
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Álvaro Luque, I'm a full stack developer with +3 years of experience. I have been developing internal software tools and also worked on web development. I have experience on different developing tasks. I worked making UX design (figma), and also went from page speed improvementes to SEO optimizations.
+  Full stack developer with 3+ years of experience. Recent graduate of a master's degree in blockchain technologies.
 
-  As well as developing software I also have expirience working on the company Architecture, deploying web servers on <mark>AWS</mark>, configuring network... All this different kind of tasks gave me a good vision about all the proccesses involved in software development.
+  I have experience on multiple developing areas, like UX design, front-end and back-end development, cloud services...All this different kind of tasks gave me a good vision about all the proccesses involved in software development.
   
-  I also have experience with some analytics and user tracking tools.
-  
-  Currently I'am studying a master in Blockchain at UPC School in Barcelona. I've been working on some personal projects, mainly with Ethereum and solidity for Smart Contracts. And also ReactJS,Hardhat,Moralis...for building Dapps.
+  I'am currently focused on blockchain and web3 projects and I'am looking for a position to keep growing on that area.
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Olympus Project
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Blockchain platform to play and win on competitive games tournaments, leagues, etc. Building a whole community around the gaming industry ecosystem.
+        description: | # this will include new lines to allow paragraphs
+          The idea for this project comes from the working group of the master in blockchain technologies. We developed the idea in the ETHBogota hackathon organized by ETHGlobal where we won several awards. 
+          I used this project to improve many of my skills and learn a lot about web3 development. We keep developing and learning!
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,8 +80,12 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Software developer in the most prestigious company in the world specialised in the reproduction of codices. Developing website and other internal software.
-            Also worked on maintaining the network and infrastrcutre security.
+            Designed new UI to improve usability and UX.
+            Analyse and optimise bottlenecks on various internal tools, thereby improving productivity.
+            Exhaustive refactoring of the CRM software (legacy code) to improve performance and code quality.
+            Designed and devoloped an internal tool to manage shipments and keep tracking of deliveries.
+            Oversaw the development of a junior programmer's project.
+            Worked on website page speed and SEO optimizations.
 
       - layout: left
         title: CBP Group
@@ -105,7 +108,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Currently doing a master's in Blockchain Technologies.Truly motivated by the changes and new opportunities that this technology brings us, this is where I want to devote my professional life.
+          Graduated in a master's in Blockchain Technologies. Truly motivated by the changes and new opportunities that this technology brings us, this is where I want to devote my professional life.
 
       - layout: left
         title: Universitat Politecnica de Catalunya
@@ -114,7 +117,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Studied computer engineering at the UPC, the best tech school in Catalonia. Specialized in software engineering.
+          Studied computer engineering at the UPC, the best tech school in Catalonia specialized in software engineering.
 
   # - title: A Little More About Me
   #   layout: text
