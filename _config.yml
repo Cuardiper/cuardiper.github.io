@@ -12,7 +12,7 @@ email: alvaro_25_98@hotmail.com
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -47,6 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   I'am currently focused on blockchain and web3 projects and I'am looking for a position to keep growing on that area.
 
+
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -66,7 +68,7 @@ content:
           Blockchain platform to play and win on competitive games tournaments, leagues, etc. Building a whole community around the gaming industry ecosystem.
         description: | # this will include new lines to allow paragraphs
           The idea for this project comes from the working group of the master in blockchain technologies. We developed the idea in the ETHBogota hackathon organized by ETHGlobal where we won several awards. 
-          I used this project to improve many of my skills and learn a lot about web3 development. We keep developing and learning!
+          I used this project to improve many of my skills and learn a lot about web3 development. We keep developing and learning! <mark>React</mark>/<mark>NextJS</mark> <mark>Tailwind</mark> <mark>ethers.js</mark> <mark>wagmi.sh</mark> <mark>Solidity</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,8 +91,10 @@ content:
             Designed and devoloped an internal tool to manage shipments and keep tracking of deliveries.
 
             Oversaw the development of a junior programmer's project.
-            
+
             Worked on website page speed and SEO optimizations.
+
+            <mark>PHP</mark>/<mark>Symfony</mark> <mark>MySQL</mark> <mark>Bootstrap</mark> <mark>JavaScript</mark> <mark>AWS</mark> <mark>jQuery</mark>
 
       - layout: left
         title: CBP Group
