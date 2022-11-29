@@ -81,10 +81,15 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Designed new UI to improve usability and UX.
+
             Analyse and optimise bottlenecks on various internal tools, thereby improving productivity.
+
             Exhaustive refactoring of the CRM software (legacy code) to improve performance and code quality.
+
             Designed and devoloped an internal tool to manage shipments and keep tracking of deliveries.
+
             Oversaw the development of a junior programmer's project.
+            
             Worked on website page speed and SEO optimizations.
 
       - layout: left
