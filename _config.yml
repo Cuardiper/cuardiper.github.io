@@ -47,13 +47,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   I have experience on **multiple developing areas**, like UX design, front-end and back-end development, cloud services…All this different kind of tasks gave me a **good vision about all the proccesses** involved in software development.
 
-  ## My best practices
-
-  I love writing **self descriptive code** that don't need a lot of documentation.
-  
-  **Refactoring** iterations to improve code quality.
-  
-  **Code review** to ensure code quality and learn from other developers.
+  # **My best practices**
+  * I love writing **self descriptive code** that don't need a lot of documentation.
+  * **Refactoring** iterations to improve code quality.
+  * **Code review** to ensure code quality and learn from other developers.
 
 
 
