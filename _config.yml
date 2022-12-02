@@ -41,11 +41,20 @@ linkedin_username: alvaro-luque-vargas-032a27167
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Full stack developer with 3+ years of experience. Recent graduate of a master's degree in blockchain technologies.
+  **Full stack developer** with 3+ years of experience. Recent graduate of a master's **degree in blockchain technologies**.
 
-  I have experience on multiple developing areas, like UX design, front-end and back-end development, cloud services…All this different kind of tasks gave me a good vision about all the proccesses involved in software development.
+  I'am currently **focused** on **blockchain** and **web3** projects and I'am looking for a position to keep growing on that area. In October 2022, my team and I **participated** in the **ETHBogota hackathon**, where we won several prizes.
+
+  I have experience on **multiple developing areas**, like UX design, front-end and back-end development, cloud services…All this different kind of tasks gave me a **good vision about all the proccesses** involved in software development.
+
+  ## My best practices
+
+  I love writing **self descriptive code** that don't need a lot of documentation.
   
-  I'am currently focused on blockchain and web3 projects and I'am looking for a position to keep growing on that area. In October 2022, my team and I participated in the ETHBogota hackathon, where we won several prizes.
+  **Refactoring** iterations to improve code quality.
+  
+  **Code review** to ensure code quality and learn from other developers.
+
 
 
 
@@ -82,17 +91,12 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Designed new UI to improve usability and UX.
-
-            Analyse and optimise bottlenecks on various internal tools, thereby improving productivity.
-
-            Exhaustive refactoring of the CRM software (legacy code) to improve performance and code quality.
-
-            Designed and devoloped an internal tool to manage shipments and keep tracking of deliveries.
-
-            Oversaw the development of a junior programmer's project.
-
-            Worked on website page speed and SEO optimizations.
+            * Designed new UI to improve usability and UX.
+            * Analyse and optimise bottlenecks on various internal tools, thereby improving productivity.
+            * Exhaustive refactoring of the CRM software (legacy code) to improve performance and code quality.
+            * Designed and devoloped an internal tool to manage shipments and keep tracking of deliveries.
+            * Oversaw the development of a junior programmer's project.
+            * Worked on website page speed and SEO optimizations.
 
             <mark>PHP</mark>/<mark>Symfony</mark> <mark>MySQL</mark> <mark>Bootstrap</mark> <mark>JavaScript</mark> <mark>AWS</mark> <mark>jQuery</mark>
 
